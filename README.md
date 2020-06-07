@@ -1,8 +1,8 @@
-# API para consumo de dados MySQL NodeJs Knex
+# API para consumo de dados MySQL NodeJs SCADA / Sistema SCADA / Supervisory Control and Data Acquisition
 
 Projeto de API utilizando NodeJs e Banco de Dados MySQL utilizando uma Query Builder KNEX para consumo de dados do banco ( valores de sensores ).
 
-Aquisição (Sistema SCADA) de dados utilizando placas:
+Aquisição (Sistema SCADA / Supervisory Control and Data Acquisition) de dados utilizando placas:
   * Arduino UNO
   * Arduino Internet Shield
   * Sensores:
